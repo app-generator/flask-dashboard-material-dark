@@ -1,0 +1,77 @@
+{% extends "base-site.html" %}
+
+{% block title %} Login {% endblock %} 
+
+{% block content %}
+
+  <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header card-header-primary">
+          <h4 class="card-title">Register</h4>
+          <p class="card-category">
+
+            {% if msg %}
+              {{ msg | safe }}
+            {% else %}
+              Complete your credentials
+            {% endif %}  
+
+          </p>
+        </div>
+        <div class="card-body">
+          
+          <form role="form" method="post" action="">
+
+            {{ form.hidden_tag() }} 
+
+            <div class="row">
+              <div class="col-md-3">
+                <div class="form-group">
+                  <label class="bmd-label-floating">Username</label>
+                  {{ form.username(placeholder="Username", class="form-control") }}
+                </div>
+              </div>
+            </div>
+
+            <br />
+
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                    <label class="bmd-label-floating">Email</label>
+                    {{ form.email(placeholder="Email", class="form-control") }}
+                    </div>
+                </div>
+            </div>
+                                    
+            <br />
+
+            <div class="row">
+              <div class="col-md-3">
+                <div class="form-group">
+                  <label class="bmd-label-floating">Password</label>
+                  {{ form.password(placeholder="Password", class="form-control", type="password") }}
+                </div>
+              </div>
+            </div>
+            
+            <br />
+
+            <div class="pull-left">
+
+              <button type="submit" name="register" class="btn btn-primary">Register</button> - Already have an account? <a href={{ url_for('base_blueprint.login') }} >Login</a>
+            
+            </div>
+
+            <div class="clearfix"></div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+        
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
