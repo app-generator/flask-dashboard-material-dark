@@ -13,6 +13,7 @@
         </div>
         <div class="sidebar-wrapper">
           <ul class="nav">
+            {% if current_user.is_authenticated %}  
             <li class="nav-item active  ">
               <a class="nav-link" href="/">
                 <i class="material-icons">dashboard</i>
@@ -62,13 +63,15 @@
                     <p>Logout</p>
                 </a>
             </li>
+            {% endif %}
 
             <li class="nav-item active-pro ">
-                  <a class="nav-link" href="https://github.com/app-generator/flask-dashboard-material-dark">
+                  <a class="nav-link" href="https://appseed.us/admin-dashboards/flask-dashboard-black-pro">
                       <i class="material-icons">unarchive</i>
-                      <p>Source Code</p>
+                      <p>PRO Version</p>
                   </a>
-              </li> 
+            </li> 
+
           </ul>
         </div>
     </div>
