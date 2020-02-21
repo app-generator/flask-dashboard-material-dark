@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Product page
-- [Flask Dashboard Material Dark](https://github.com/app-generator/flask-dashboard-material-dark) - Source code (published on Github)
+- [Flask Dashboard Material Dark](https://docs.appseed.us/admin-dashboards/flask-dashboard-material-dark/) - Documentation
 - [Flask Dashboard Material Dark](https://flask-dashboard-material-dark.appseed.us/login) - LIVE demo
 
 <br />
