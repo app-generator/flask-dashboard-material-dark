@@ -70,7 +70,7 @@ $ # (Powershell) $env:FLASK_ENV = "development"
 $
 $ # Start the application (development mode)
 $ # --host=0.0.0.0 - expose the app on all network interfaces (default 127.0.0.1)
-$ # --port=5005    - specify the app port (default 5000)  
+$ # --port=5005    - specify the app port (default 5005)  
 $ flask run --host=0.0.0.0 --port=5005
 $
 $ # Access the dashboard in browser: http://127.0.0.1:5005/
