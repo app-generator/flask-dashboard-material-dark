@@ -1,4 +1,4 @@
-# [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
+# [Flask Dashboard - Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,11 +14,11 @@
 
 > Links
 
-- [Flask Dashboard Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Product page
-- [Flask Dashboard Material Dark](https://docs.appseed.us/admin-dashboards/flask-dashboard-material-dark/) - Documentation
-- [Flask Dashboard Material Dark](https://flask-dashboard-material-dark.appseed.us/login) - LIVE demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark) - Product page
+- [Flask Dashboard Material Dark Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-material-dark/) - Documentation
+- [Flask Dashboard Material Dark Demo](https://flask-dashboard-material-dark.appseed.us/) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
