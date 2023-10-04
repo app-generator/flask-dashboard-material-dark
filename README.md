@@ -1,6 +1,6 @@
 # [Flask Dashboard - Material Dark](https://appseed.us/admin-dashboards/flask-dashboard-material-dark)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+> **Open-Source Admin Dashboard** coded in **[Flask](https://appseed.us/admin-dashboards/flask/)** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
 - UI Kit: **[Material Dark Dashboard](https://flask-dashboard-material-dark.appseed.us/login)** (Free version) provided by **Creative-Tim**
 - Modular design with **Blueprints**
